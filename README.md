@@ -30,7 +30,7 @@ I've been learning to code for the last year. JavaScript is my command language.
 
 ### Projects
  <ul>
-        <a href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone (Work in Progress)</a>
+        <li><a href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone (Work in Progress)</a></li>
         <li><a href="https://velvety-tapioca-221036.netlify.app/">Country Finder</a></li>
         <li><a href="https://starlit-truffle-18a18f.netlify.app">Vaccination Record</a></li>
   </ul>
