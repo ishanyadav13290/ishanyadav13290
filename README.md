@@ -29,7 +29,11 @@ I've been learning to code for the last year. JavaScript is my command language.
 </p>
 
 ### Projects
-<a href="https://velvety-tapioca-221036.netlify.app/">Country Finder</a>
+ <ul>
+        <a href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone (Work in Progress)</a>
+        <li><a href="https://velvety-tapioca-221036.netlify.app/">Country Finder</a></li>
+        <li><a href="https://starlit-truffle-18a18f.netlify.app">Vaccination Record</a></li>
+  </ul>
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/A Corruptor#3206" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ishanyadav13290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ishan-yadav-5306851ba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
