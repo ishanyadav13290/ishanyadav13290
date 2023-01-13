@@ -26,6 +26,7 @@ I've been learning to code for the last year. JavaScript is my command language.
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+ <a href="https://chakra-ui.com/getting-started" target="_blank" rel="noreferrer"  style="background-color:white" ><img src="https://www.svgrepo.com/show/330132/chakraui.svg" width="36" height="36" alt="JavaScript"/></a>
 </p>
 
 ### Projects
