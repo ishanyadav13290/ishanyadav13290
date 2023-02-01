@@ -31,7 +31,8 @@ I've been learning to code for the last year. JavaScript is my command language.
 
 ### Projects
  <ul>
-        <li><a href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone (Work in Progress)</a></li>
+        <li><a href="https://e-commerce-clone-b5604.web.app/">E-Commerce Site Clone (Inspired by Mirraw)</a></li>
+        <li><a href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone</a></li>
         <li><a href="https://velvety-tapioca-221036.netlify.app/">Country Finder</a></li>
         <li><a href="https://chimerical-parfait-44bd2d.netlify.app">Vaccination Record</a></li>
   </ul>
