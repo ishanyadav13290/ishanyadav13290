@@ -53,3 +53,6 @@ I've been learning to code for the last year. JavaScript is my command language.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ishanyadav13290"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanyadav13290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+Profile Views (Since 22 March 2023)
+![](https://komarev.com/ghpvc/?username=ishanyadav13290)
