@@ -48,6 +48,8 @@ I've been learning to code for the last year. JavaScript is my command language.
 
 <a href="http://www.github.com/ishanyadav13290"><img src="https://github-readme-stats.vercel.app/api?username=ishanyadav13290&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ishanyadav13290's GitHub stats" /></a>
 
+<a href="http://www.github.com/ishanyadav13290"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishanyadav13290&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/ishanyadav13290" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanyadav13290&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>My GitHub Stats</b>
