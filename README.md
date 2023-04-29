@@ -8,7 +8,7 @@ I've been learning to code for the last year. JavaScript is my command language.
 
 * 🌍  I'm based in Madhya Pradesh, India
 * ✉️  You can contact me at [ishanyadav13290@gmail.com](mailto:ishanyadav13290@gmail.com)
-* 🧠  I'm learning JavaScript, HTML, CSS, DOM, React.js, PHP, Node.js, Express.js, MongoDB,
+* 🧠  I'm learning JavaScript, HTML, CSS, DOM, React.js, Node.js, Express.js, MongoDB,
 * 🤝  I'm open to collaborating on Frontend Projects
 * ⚡  I can play guitar (Not too well), so don't ask me to play.
 
