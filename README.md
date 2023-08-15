@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I'm coding since January 2022. JavaScript is my command language. I like to work on both front-end and back-end projects.
+JavaScript is my command language. I like to work on both front-end and back-end projects.
 
 * 🌍  I'm based in Madhya Pradesh, India
 * ✉️  You can contact me at [ishanyadav13290@gmail.com](mailto:ishanyadav13290@gmail.com)
