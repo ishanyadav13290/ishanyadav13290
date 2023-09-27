@@ -33,10 +33,12 @@ JavaScript is my command language. I like to work on both front-end and back-end
 
 ### Projects
  <ul>
-        <li><a href="https://e-commerce-clone-b5604.web.app/">E-Commerce Site Clone (Inspired by Mirraw)</a></li>
-        <li><a href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone</a></li>
-        <li><a href="https://velvety-tapioca-221036.netlify.app/">Country Finder</a></li>
-        <li><a href="https://chimerical-parfait-44bd2d.netlify.app">Vaccination Record</a></li>
+        <li><a target="_blank" href="https://helpprojectfoundation.in/">The Help Foundation NGO Site</a></li>
+        <li><a target="_blank" href="https://e-commerce-clone-b5604.web.app/">E-Commerce Site Clone (Inspired by Mirraw)</a></li>
+        <li><a target="_blank" href="https://prismatic-zuccutto-4847a5.netlify.app">Intern-Theory Clone</a></li>
+        <li><a target="_blank" href="https://velvety-tapioca-221036.netlify.app/">Country Finder</a></li>
+        <li><a target="_blank" href="https://chimerical-parfait-44bd2d.netlify.app">Vaccination Record</a></li>
+        <li><a target="_blank" href="https://mjs8j5.csb.app/">Tic-Tac-Toe Game</a></li>
   </ul>
 ### Socials
 
