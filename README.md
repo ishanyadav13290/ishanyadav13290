@@ -8,7 +8,7 @@ JavaScript is my command language. I like to work on both front-end and back-end
 
 * 🌍  I'm based in Madhya Pradesh, India
 * ✉️  You can contact me at [ishanyadav13290@gmail.com](mailto:ishanyadav13290@gmail.com)
-* 🧠  HTML, CSS, DOM, React.js, React-Native, Node.js, Express.js, MongoDB, PostgreSQL EJS, npm, REST API's, OdataV4.
+* 🧠  HTML, CSS, DOM, React.js, React-Native, Node.js, Express.js, MongoDB, PostgreSQL EJS, npm, REST API's, OdataV4, Jira.
 * 🤝  I'm open to collaborating on Frontend and backend projects.
 * ⚡  I can play guitar (Not too well), so don't ask me to play.
 
